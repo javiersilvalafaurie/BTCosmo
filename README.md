@@ -6,3 +6,5 @@ The codes are in jupyter notebooks and python files. To run them we recommend An
 In xi_0_2_power_spectrum_creator.ipynb we created the power spectrums with and without wiggles using a fiducial cosmology (Planck 2015)
 
 In xi_0_2_MCMC.ipynb we run a MCMC algorithm to constrain cosmological information from BOSS CMASS
+
+These code belong to Javier Silva Lafaurie and can be used freely under the MIT license. If you are going to use them please cite >><<<. For any question please concact me through javier.silva@ug.uchile.cl
